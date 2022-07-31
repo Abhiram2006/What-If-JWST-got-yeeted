@@ -25,6 +25,7 @@ The trajectory of JWST and Rogue satellite. y axis is y-coordinate, x-axis is x 
 We run the code for 365 days, to get the distance from L2 as a function of time
 
 ![a6310ed3-834b-460f-8191-d1bbe82840cf](https://user-images.githubusercontent.com/65448559/182022423-9275ab83-850a-4db6-93f2-9a99f8af4e30.jpg)
+
 Graph of distance of satellite from L2 as a function of t(in days)
 
 
